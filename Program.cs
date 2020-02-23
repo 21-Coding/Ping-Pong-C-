@@ -8,7 +8,7 @@ namespace pingPong
         {
             string[] gameLingo;
 
-            gameLingo = new string["Ping","Pong","Ping-Pong"];
+            gameLingo = new string[3]{"Ping","Pong","Ping-Pong"};
 
             Console.WriteLine("Hello user, enter a number!");
             string stringUserNumber = Console.ReadLine();
