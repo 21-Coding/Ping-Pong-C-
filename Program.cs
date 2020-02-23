@@ -6,7 +6,6 @@ namespace pingPong
     {
         static void Main(string[] args)
         {
-            string[] gameLingo = {};
 
             Console.WriteLine("Hello and welcome to Ping-Pong, enter a number!");
             for (int index = 1; index < gameLingo.length; index++)
