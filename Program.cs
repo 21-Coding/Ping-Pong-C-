@@ -10,7 +10,7 @@ namespace pingPong
 
             gameLingo = new string[3]{"Ping","Pong","Ping-Pong"};
 
-            Console.WriteLine("Hello user, enter a number!");
+            Console.WriteLine("Hello and welcome to Ping-Pong, enter a number!");
             string stringUserNumber = Console.ReadLine();
             int intUserNumber = int.Parse(stringUserNumber);
 
